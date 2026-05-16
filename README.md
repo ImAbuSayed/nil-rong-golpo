@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nil-rong-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Nil Rong Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nil-rong-golpo/) |
+| **Get License** | [Official Music Licensing for Nil Rong Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nil-rong-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8b76b99b4129e68263640fc444dab03c445fafbdd2af23fbabb1403680920d78` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

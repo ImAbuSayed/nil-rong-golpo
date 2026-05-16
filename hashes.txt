@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nil Rong Golpo
+
+This log tracks the cryptographic history and versioning for the song **Nil Rong Golpo** (nil-rong-golpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T08:16:30.839036 | `v1` | `8b76b99b4129e68263640fc444dab03c445fafbdd2af23fbabb1403680920d78` | `7a1e625da3eb42d83f38b3c886ac2e9b1e508b768996f6a0094b5d95be48b4e8` | `2026-05-16_nil-rong-golpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
